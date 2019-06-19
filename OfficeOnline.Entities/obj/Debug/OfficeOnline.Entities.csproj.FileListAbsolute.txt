@@ -1,0 +1,6 @@
+C:\Users\C4_Ertugrul\source\repos\OfficeOnline\OfficeOnline.Entities\obj\Debug\OfficeOnline.Entities.csprojAssemblyReference.cache
+C:\Users\C4_Ertugrul\source\repos\OfficeOnline\OfficeOnline.Entities\obj\Debug\OfficeOnline.Entities.csproj.CoreCompileInputs.cache
+C:\Users\C4_Ertugrul\source\repos\OfficeOnline\OfficeOnline.Entities\bin\Debug\OfficeOnline.Entities.dll
+C:\Users\C4_Ertugrul\source\repos\OfficeOnline\OfficeOnline.Entities\bin\Debug\OfficeOnline.Entities.pdb
+C:\Users\C4_Ertugrul\source\repos\OfficeOnline\OfficeOnline.Entities\obj\Debug\OfficeOnline.Entities.dll
+C:\Users\C4_Ertugrul\source\repos\OfficeOnline\OfficeOnline.Entities\obj\Debug\OfficeOnline.Entities.pdb

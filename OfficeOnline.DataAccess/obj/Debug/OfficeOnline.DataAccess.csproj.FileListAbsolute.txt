@@ -1,0 +1,14 @@
+C:\Users\C4_Ertugrul\source\repos\OfficeOnline\OfficeOnline.DataAccess\obj\Debug\OfficeOnline.DataAccess.csprojAssemblyReference.cache
+C:\Users\C4_Ertugrul\source\repos\OfficeOnline\OfficeOnline.DataAccess\obj\Debug\OfficeOnline.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\C4_Ertugrul\source\repos\OfficeOnline\OfficeOnline.DataAccess\bin\Debug\OfficeOnline.DataAccess.dll.config
+C:\Users\C4_Ertugrul\source\repos\OfficeOnline\OfficeOnline.DataAccess\bin\Debug\OfficeOnline.DataAccess.dll
+C:\Users\C4_Ertugrul\source\repos\OfficeOnline\OfficeOnline.DataAccess\bin\Debug\OfficeOnline.DataAccess.pdb
+C:\Users\C4_Ertugrul\source\repos\OfficeOnline\OfficeOnline.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\C4_Ertugrul\source\repos\OfficeOnline\OfficeOnline.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\C4_Ertugrul\source\repos\OfficeOnline\OfficeOnline.DataAccess\bin\Debug\OfficeOnline.Entities.dll
+C:\Users\C4_Ertugrul\source\repos\OfficeOnline\OfficeOnline.DataAccess\bin\Debug\OfficeOnline.Entities.pdb
+C:\Users\C4_Ertugrul\source\repos\OfficeOnline\OfficeOnline.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\C4_Ertugrul\source\repos\OfficeOnline\OfficeOnline.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\C4_Ertugrul\source\repos\OfficeOnline\OfficeOnline.DataAccess\obj\Debug\OfficeOnline.DataAccess.csproj.CopyComplete
+C:\Users\C4_Ertugrul\source\repos\OfficeOnline\OfficeOnline.DataAccess\obj\Debug\OfficeOnline.DataAccess.dll
+C:\Users\C4_Ertugrul\source\repos\OfficeOnline\OfficeOnline.DataAccess\obj\Debug\OfficeOnline.DataAccess.pdb

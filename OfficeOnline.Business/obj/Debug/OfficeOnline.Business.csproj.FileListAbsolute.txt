@@ -1,0 +1,17 @@
+C:\Users\C4_Ertugrul\source\repos\OfficeOnline\OfficeOnline.Business\bin\Debug\OfficeOnline.Business.dll
+C:\Users\C4_Ertugrul\source\repos\OfficeOnline\OfficeOnline.Business\bin\Debug\OfficeOnline.Business.pdb
+C:\Users\C4_Ertugrul\source\repos\OfficeOnline\OfficeOnline.Business\obj\Debug\OfficeOnline.Business.csprojAssemblyReference.cache
+C:\Users\C4_Ertugrul\source\repos\OfficeOnline\OfficeOnline.Business\obj\Debug\OfficeOnline.Business.csproj.CoreCompileInputs.cache
+C:\Users\C4_Ertugrul\source\repos\OfficeOnline\OfficeOnline.Business\obj\Debug\OfficeOnline.Business.dll
+C:\Users\C4_Ertugrul\source\repos\OfficeOnline\OfficeOnline.Business\obj\Debug\OfficeOnline.Business.pdb
+C:\Users\C4_Ertugrul\source\repos\OfficeOnline\OfficeOnline.Business\bin\Debug\FluentValidation.dll
+C:\Users\C4_Ertugrul\source\repos\OfficeOnline\OfficeOnline.Business\bin\Debug\OfficeOnline.DataAccess.dll
+C:\Users\C4_Ertugrul\source\repos\OfficeOnline\OfficeOnline.Business\bin\Debug\OfficeOnline.Entities.dll
+C:\Users\C4_Ertugrul\source\repos\OfficeOnline\OfficeOnline.Business\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\C4_Ertugrul\source\repos\OfficeOnline\OfficeOnline.Business\bin\Debug\EntityFramework.dll
+C:\Users\C4_Ertugrul\source\repos\OfficeOnline\OfficeOnline.Business\bin\Debug\OfficeOnline.DataAccess.pdb
+C:\Users\C4_Ertugrul\source\repos\OfficeOnline\OfficeOnline.Business\bin\Debug\OfficeOnline.DataAccess.dll.config
+C:\Users\C4_Ertugrul\source\repos\OfficeOnline\OfficeOnline.Business\bin\Debug\OfficeOnline.Entities.pdb
+C:\Users\C4_Ertugrul\source\repos\OfficeOnline\OfficeOnline.Business\bin\Debug\FluentValidation.xml
+C:\Users\C4_Ertugrul\source\repos\OfficeOnline\OfficeOnline.Business\bin\Debug\EntityFramework.xml
+C:\Users\C4_Ertugrul\source\repos\OfficeOnline\OfficeOnline.Business\obj\Debug\OfficeOnline.Business.csproj.CopyComplete
